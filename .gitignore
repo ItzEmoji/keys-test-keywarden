@@ -1,0 +1,7 @@
+# keywarden: defense in depth — common plaintext key names must never land here
+id_rsa
+id_ecdsa
+id_ed25519
+*.pem
+*.key
+*.env
